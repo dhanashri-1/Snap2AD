@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/3e057361-ec5d-45aa-a0b7-7a1365d1ab7d
+
 # Snap2AD - AI-Powered Ad Creator
 
 ## Overview
