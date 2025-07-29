@@ -21,7 +21,7 @@ Snap2AD is a powerful AI-driven ad creation tool that analyzes your images and g
 ## Installation
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/dhanashri-1/Snap2AD.git
    ```
 2. Navigate to the project directory:
    ```
